@@ -1,0 +1,100 @@
+{
+  "MeanReciProcalRank" : 0.05555555555555555,
+  "TotalPattern" : 18,
+  "NumberOfPatterrnFoundNonZeroRank" : 2,
+  "NumberOfPatterrnFoundZeroRank" : 16,
+  "PatterrnFoundNonZeroRank" : {
+    "bear_in" : {
+      "Predicate" : [ "dbo:birthPlace" ],
+      "Rank" : 2,
+      "ReciprocalRank" : 0.5
+    },
+    "die_in" : {
+      "Predicate" : [ "dbo:deathPlace" ],
+      "Rank" : 2,
+      "ReciprocalRank" : 0.5
+    }
+  },
+  "PatterrnFoundZeroRank" : {
+    "appear_in" : {
+      "Predicate" : [ "dbo:country", "dbo:occupation" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "appear_on" : {
+      "Predicate" : [ "dbo:occupation" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "bear_11" : {
+      "Predicate" : [ "dbo:occupation" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "bear_3" : {
+      "Predicate" : [ "dbo:occupation" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "become_first" : {
+      "Predicate" : [ "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "come_to" : {
+      "Predicate" : [ "dbo:deathPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "educate_at" : {
+      "Predicate" : [ "dbo:country" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "end_his" : {
+      "Predicate" : [ "dbo:stateOfOrigin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "enter" : {
+      "Predicate" : [ "dbp:deathPlace", "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "make_1" : {
+      "Predicate" : [ "dbo:deathPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "make_his" : {
+      "Predicate" : [ "dbo:occupation", "dbo:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "marry" : {
+      "Predicate" : [ "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "represent" : {
+      "Predicate" : [ "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "star_in" : {
+      "Predicate" : [ "dbo:stateOfOrigin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "train_at" : {
+      "Predicate" : [ "dbo:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "win_miss" : {
+      "Predicate" : [ "dbp:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    }
+  }
+}

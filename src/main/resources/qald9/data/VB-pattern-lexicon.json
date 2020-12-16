@@ -1,0 +1,114 @@
+[ {
+  "pattern" : "appear_in",
+  "partsOfSpeech" : "VBD_IN",
+  "index" : {
+    "1" : [ "pair=dbo:country ", "multiplyValue=0.026953" ],
+    "2" : [ "pair=dbo:occupation ", "multiplyValue=0.013367" ]
+  }
+}, {
+  "pattern" : "appear_on",
+  "partsOfSpeech" : "VBD_IN",
+  "index" : {
+    "1" : [ "pair=dbo:occupation ", "multiplyValue=0.015038" ]
+  }
+}, {
+  "pattern" : "bear_11",
+  "partsOfSpeech" : "VBN_CD",
+  "index" : {
+    "1" : [ "pair=dbo:occupation ", "multiplyValue=0.022556" ]
+  }
+}, {
+  "pattern" : "bear_3",
+  "partsOfSpeech" : "VBN_CD",
+  "index" : {
+    "1" : [ "pair=dbo:occupation ", "multiplyValue=0.022556" ]
+  }
+}, {
+  "pattern" : "bear_in",
+  "partsOfSpeech" : "VBN_IN",
+  "index" : {
+    "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.016291" ],
+    "2" : [ "pair=dbp:origin ", "multiplyValue=0.02381" ]
+  }
+}, {
+  "pattern" : "become_first",
+  "partsOfSpeech" : "VBD_RB",
+  "index" : {
+    "1" : [ "pair=dbp:birthPlace ", "multiplyValue=0.007937" ]
+  }
+}, {
+  "pattern" : "come_to",
+  "partsOfSpeech" : "VBD_TO",
+  "index" : {
+    "1" : [ "pair=dbo:deathPlace ", "multiplyValue=0.004608" ]
+  }
+}, {
+  "pattern" : "die_in",
+  "partsOfSpeech" : "VBD_IN",
+  "index" : {
+    "1" : [ "pair=dbo:deathPlace ", "multiplyValue=0.010369" ],
+    "2" : [ "pair=dbp:deathPlace ", "multiplyValue=0.052632" ]
+  }
+}, {
+  "pattern" : "educate_at",
+  "partsOfSpeech" : "VBN_IN",
+  "index" : {
+    "1" : [ "pair=dbo:country ", "multiplyValue=0.009901" ]
+  }
+}, {
+  "pattern" : "end_his",
+  "partsOfSpeech" : "VBD_PRP$",
+  "index" : {
+    "1" : [ "pair=dbo:stateOfOrigin ", "multiplyValue=0.111111" ]
+  }
+}, {
+  "pattern" : "enter",
+  "partsOfSpeech" : "VBN",
+  "index" : {
+    "1" : [ "pair=dbp:birthPlace ", "multiplyValue=0.007937" ],
+    "2" : [ "pair=dbp:deathPlace ", "multiplyValue=0.026316" ]
+  }
+}, {
+  "pattern" : "make_1",
+  "partsOfSpeech" : "VBN_JJ",
+  "index" : {
+    "1" : [ "pair=dbo:deathPlace ", "multiplyValue=0.004608" ]
+  }
+}, {
+  "pattern" : "make_his",
+  "partsOfSpeech" : "VBN_PRP$",
+  "index" : {
+    "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.005398" ],
+    "2" : [ "pair=dbo:occupation ", "multiplyValue=0.016917" ]
+  }
+}, {
+  "pattern" : "marry",
+  "partsOfSpeech" : "VBN",
+  "index" : {
+    "1" : [ "pair=dbp:birthPlace ", "multiplyValue=0.001323" ]
+  }
+}, {
+  "pattern" : "represent",
+  "partsOfSpeech" : "VBN",
+  "index" : {
+    "1" : [ "pair=dbp:birthPlace ", "multiplyValue=0.003968" ]
+  }
+}, {
+  "pattern" : "star_in",
+  "partsOfSpeech" : "VBD_IN",
+  "index" : {
+    "1" : [ "pair=dbo:stateOfOrigin ", "multiplyValue=0.037037" ]
+  }
+}, {
+  "pattern" : "train_at",
+  "partsOfSpeech" : "VBN_IN",
+  "index" : {
+    "1" : [ "pair=dbo:birthPlace ", "multiplyValue=0.002699" ]
+  }
+}, {
+  "pattern" : "win_miss",
+  "partsOfSpeech" : "VBN_VBP",
+  "index" : {
+    "1" : [ "pair=dbp:birthPlace ", "multiplyValue=0.007937" ]
+  }
+} ]

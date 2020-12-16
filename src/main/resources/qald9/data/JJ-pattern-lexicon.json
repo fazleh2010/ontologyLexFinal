@@ -1,0 +1,13 @@
+[ {
+  "pattern" : "able_to",
+  "partsOfSpeech" : "JJ_TO",
+  "index" : {
+    "1" : [ "pair=dbp:origin ", "multiplyValue=0.333333" ]
+  }
+}, {
+  "pattern" : "british",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "1" : [ "pair=dbo:occupation ", "multiplyValue=0.015038" ]
+  }
+} ]

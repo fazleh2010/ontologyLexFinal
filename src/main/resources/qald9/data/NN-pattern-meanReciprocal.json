@@ -1,0 +1,19 @@
+{
+  "MeanReciProcalRank" : 0.0,
+  "TotalPattern" : 2,
+  "NumberOfPatterrnFoundNonZeroRank" : 0,
+  "NumberOfPatterrnFoundZeroRank" : 2,
+  "PatterrnFoundNonZeroRank" : { },
+  "PatterrnFoundZeroRank" : {
+    "member_of" : {
+      "Predicate" : [ "dbp:origin" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    },
+    "winner_of" : {
+      "Predicate" : [ "dbp:birthPlace", "dbo:birthPlace" ],
+      "Rank" : 0,
+      "ReciprocalRank" : 0.0
+    }
+  }
+}
